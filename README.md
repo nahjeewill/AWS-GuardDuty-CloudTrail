@@ -25,3 +25,7 @@ AWS CloudTrail, GuardDuty, IAM, CloudWatch, Athena
 
 ## Outcome
 Successfully detected and investigated simulated threats, reinforcing SOC investigation skills in a cloud environment.
+
+## Incident Report
+The detailed SOC-style incident report for this simulation, including GuardDuty findings, CloudTrail investigation, and remediation steps, can be found here:  
+[**Read the Full Incident Report**](incident-report.md)
