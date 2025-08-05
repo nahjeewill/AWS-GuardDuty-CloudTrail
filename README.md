@@ -1,6 +1,6 @@
 # AWS-GuardDuty-CloudTrail
 Cloud Threat Monitoring Simulation
-# AWS CloudTrail + GuardDuty Threat Monitoring
+# AWS GuardDuty + CloudTrail Threat Monitoring
 
 ## Objective
 Simulate suspicious AWS account activity, detect threats with GuardDuty, and investigate using CloudTrail logs.
