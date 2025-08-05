@@ -12,7 +12,7 @@ Simulate suspicious AWS account activity, detect threats with GuardDuty, and inv
 - SOC-style incident reporting
 
 ## Tools
-AWS CloudTrail, GuardDuty, IAM, CloudWatch, Athena
+AWS CloudTrail, GuardDuty, IAM, CloudWatch, Athena (Optional)
 
 ## Steps
 1. Enabled CloudTrail and GuardDuty
